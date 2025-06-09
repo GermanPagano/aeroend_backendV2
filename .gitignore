@@ -1,0 +1,7 @@
+# Ignorar credenciales de Google
+credentials.json
+
+# Carpetas comunes
+/node_modules
+.env
+.DS_Store
