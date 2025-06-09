@@ -7,7 +7,6 @@ const { google } = require('googleapis');
 const path = require('path');
 require('dotenv').config();
 const cors = require('cors'); // 👈 esto
-
 const app = express();
 app.use(cors({
   origin: '*'
